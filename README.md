@@ -6,6 +6,7 @@ private-douyin 聚合你的数字囤货 —— 本地浏览器书签、本地备
 
 在你想看点什么时，由 StepFun 3.7 Flash 从你的囤货里选一条做成 feed 发到你的飞书
 
+https://github.com/user-attachments/assets/90cfb6c5-375d-4b14-ac7b-40d3bfb675ab
 
 ## 核心特性
 
