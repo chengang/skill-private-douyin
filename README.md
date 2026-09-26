@@ -83,12 +83,12 @@ LLM 深度分析候选内容，生成温情推荐语
 
 ## 已支持的数据源
 
-| 数据源 | 类型 | 获取方式 | 权限 |
-|--------|------|----------|------|
-| Safari 书签 | 本地 | `safari-bookmarks-cli` | 无权限弹窗 |
-| macOS 备忘录 | 本地 | `memo notes` | 无权限弹窗 |
-| Bilibili | 云端 | `bili hot` | 无权限弹窗 |
-| 小红书 | 云端 | `xhs hot` | 无权限弹窗 |
+| 数据源 | 类型 | 获取方式 | 
+|--------|------|----------|
+| Safari 书签 | 本地 | https://github.com/evilmarty/safari-bookmarks-cli |
+| macOS 备忘录 | 本地 | https://github.com/antoniorodr/memo |
+| Bilibili | 云端 | https://github.com/public-clis/bilibili-cli |
+| 小红书 | 云端 | https://github.com/jackwener/xiaohongshu-cli | 
 
 
 ## 未来规划
