@@ -83,6 +83,8 @@ LLM 深度分析候选内容，生成温情推荐语
 
 ## 已支持的数据源
 
+已支持的数据源如下，请参考 INSTALL.md 安装相关依赖
+
 | 数据源 | 类型 | 获取方式 | 
 |--------|------|----------|
 | Safari 书签 | 本地 | https://github.com/evilmarty/safari-bookmarks-cli |
