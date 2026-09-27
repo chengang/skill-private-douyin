@@ -8,6 +8,8 @@ private-douyin 聚合你的数字囤货 —— 本地浏览器书签、本地备
 
 https://github.com/user-attachments/assets/90cfb6c5-375d-4b14-ac7b-40d3bfb675ab
 
+https://www.bilibili.com/video/BV1WMa46eE9u/
+
 ## 核心特性
 
 ### 🎯 情感化推荐
